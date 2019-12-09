@@ -7,3 +7,5 @@ Rồi sao nữa
 https://guides.github.com/
 
 Hay do
+
+Sửa trên serverr v2
